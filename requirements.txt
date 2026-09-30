@@ -1,0 +1,6 @@
+playwright
+pymupdf
+beautifulsoup4
+requests
+pillow
+fonttools

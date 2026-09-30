@@ -1,0 +1,320 @@
+[
+  {
+    "page": 1,
+    "title": "INTERN — til Anton",
+    "archive_ids": [],
+    "urls": []
+  },
+  {
+    "page": 2,
+    "title": "Titel og udgave",
+    "archive_ids": [],
+    "urls": []
+  },
+  {
+    "page": 3,
+    "title": "Indhold",
+    "archive_ids": [],
+    "urls": []
+  },
+  {
+    "page": 4,
+    "title": "Goddag, Anton",
+    "archive_ids": [
+      "dashboard"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/"
+    ]
+  },
+  {
+    "page": 5,
+    "title": "Dashboard",
+    "archive_ids": [
+      "dashboard"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/"
+    ]
+  },
+  {
+    "page": 6,
+    "title": "Alumnelisten",
+    "archive_ids": [
+      "alumneliste"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/alumneliste/"
+    ]
+  },
+  {
+    "page": 7,
+    "title": "Min profil",
+    "archive_ids": [
+      "beboer-456-profil"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/beboer/456/profil"
+    ]
+  },
+  {
+    "page": 8,
+    "title": "Den Hurtige",
+    "archive_ids": [
+      "den-hurtige",
+      "den-hurtige-178-traad"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/den-hurtige/",
+      "https://www.gahk.dk/intern/den-hurtige/178/traad"
+    ]
+  },
+  {
+    "page": 9,
+    "title": "Små beskeder",
+    "archive_ids": [
+      "den-hurtige"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/den-hurtige/"
+    ]
+  },
+  {
+    "page": 10,
+    "title": "Kanaler",
+    "archive_ids": [
+      "den-hurtige-sportsmann",
+      "den-hurtige-tv-rezz",
+      "den-hurtige-gahkroom",
+      "den-hurtige-mhga"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/den-hurtige/sportsmann",
+      "https://www.gahk.dk/intern/den-hurtige/tv-rezz",
+      "https://www.gahk.dk/intern/den-hurtige/gahkroom",
+      "https://www.gahk.dk/intern/den-hurtige/mhga"
+    ]
+  },
+  {
+    "page": 11,
+    "title": "Opslagstavlen",
+    "archive_ids": [
+      "opslagstavle",
+      "opslagstavle-8"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/opslagstavle/",
+      "https://www.gahk.dk/intern/opslagstavle/8"
+    ]
+  },
+  {
+    "page": 12,
+    "title": "Carls Håndbog",
+    "archive_ids": [
+      "opslagstavle-8",
+      "opslagstavle-1"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/opslagstavle/8",
+      "https://www.gahk.dk/intern/opslagstavle/1"
+    ]
+  },
+  {
+    "page": 13,
+    "title": "Årets vigtigste billede",
+    "archive_ids": [
+      "opslagstavle-11"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/opslagstavle/11"
+    ]
+  },
+  {
+    "page": 14,
+    "title": "KEN’s mange kvaliteter",
+    "archive_ids": [
+      "opslagstavle-7"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/opslagstavle/7"
+    ]
+  },
+  {
+    "page": 15,
+    "title": "Begivenheder",
+    "archive_ids": [
+      "begivenheder-4"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/begivenheder/4"
+    ]
+  },
+  {
+    "page": 16,
+    "title": "Kalender",
+    "archive_ids": [
+      "begivenheder-kalender",
+      "begivenheder-2",
+      "begivenheder-1"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/begivenheder/kalender",
+      "https://www.gahk.dk/intern/begivenheder/2",
+      "https://www.gahk.dk/intern/begivenheder/1"
+    ]
+  },
+  {
+    "page": 17,
+    "title": "Søg værelse",
+    "archive_ids": [
+      "soegvaerelse"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/soegvaerelse/"
+    ]
+  },
+  {
+    "page": 18,
+    "title": "Værelsestjek",
+    "archive_ids": [
+      "vaerelsestjek",
+      "vaerelsestjek-se-101"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/vaerelsestjek/",
+      "https://www.gahk.dk/intern/vaerelsestjek/se/101"
+    ]
+  },
+  {
+    "page": 19,
+    "title": "AK-krydser",
+    "archive_ids": [
+      "ak"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/ak/"
+    ]
+  },
+  {
+    "page": 20,
+    "title": "Ølkælder",
+    "archive_ids": [
+      "oelkaelder-min-saldo"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/oelkaelder/min-saldo"
+    ]
+  },
+  {
+    "page": 21,
+    "title": "Reparationer",
+    "archive_ids": [
+      "reparationer",
+      "reparationer-4",
+      "reparationer-6"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/reparationer/",
+      "https://www.gahk.dk/intern/reparationer/4",
+      "https://www.gahk.dk/intern/reparationer/6"
+    ]
+  },
+  {
+    "page": 22,
+    "title": "Papirautomat",
+    "archive_ids": [
+      "reparationer-3"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/reparationer/3"
+    ]
+  },
+  {
+    "page": 23,
+    "title": "Stamtræ",
+    "archive_ids": [
+      "stamtree"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/stamtree/"
+    ]
+  },
+  {
+    "page": 24,
+    "title": "Fylgje for hinanden",
+    "archive_ids": [
+      "stamtree"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/stamtree/"
+    ]
+  },
+  {
+    "page": 25,
+    "title": "Statistik",
+    "archive_ids": [
+      "statistik"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/statistik/"
+    ]
+  },
+  {
+    "page": 26,
+    "title": "Fotoalbum — oversigten",
+    "archive_ids": [
+      "fotoalbum"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/fotoalbum/"
+    ]
+  },
+  {
+    "page": 27,
+    "title": "Arkiv — oversigten",
+    "archive_ids": [
+      "arkiv"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/arkiv/"
+    ]
+  },
+  {
+    "page": 28,
+    "title": "Navigation",
+    "archive_ids": [
+      "dashboard"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/"
+    ]
+  },
+  {
+    "page": 29,
+    "title": "Kilder",
+    "archive_ids": [],
+    "urls": []
+  },
+  {
+    "page": 30,
+    "title": "Kolofon",
+    "archive_ids": [],
+    "urls": []
+  },
+  {
+    "page": 31,
+    "title": "Hav det smukt",
+    "archive_ids": [
+      "reparationer-3"
+    ],
+    "urls": [
+      "https://www.gahk.dk/intern/reparationer/3"
+    ]
+  },
+  {
+    "page": 32,
+    "title": "Bagside",
+    "archive_ids": [],
+    "urls": []
+  }
+]
